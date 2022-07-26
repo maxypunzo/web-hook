@@ -1,0 +1,6 @@
+server:
+  port: 9091
+Spring:
+  application:
+    name: bootstrap
+test: This is Web Hook
